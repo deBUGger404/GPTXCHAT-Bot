@@ -44,7 +44,3 @@ Seize the opportunity to redefine your creative boundaries. Download GPTXCHAT no
 ## Contact Us
 
 For any inquiries or assistance, feel free to connect with us at trakssapp@gmail.com. Your creative journey awaits.
-
----
-
-**Note:** This README provides an overview of GPTXCHAT. For detailed information on installation, usage, and contributing, please refer to the [Documentation](link-to-documentation).
